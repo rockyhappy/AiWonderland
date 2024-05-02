@@ -1,4 +1,4 @@
-package com.devrachit.aiwonderland.ui.theme
+package com.devrachit.aiwonderland.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
